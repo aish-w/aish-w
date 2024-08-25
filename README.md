@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 I'm a frontend developer who loves building cool stuff for the web.<br>I'm also into Data Structures and Algorithms (DSA) and tinkering with Internet of Things (IoT) projects. <br>On my GitHub, you'll find a mix of websites I've built, code for solving coding problems, and experiments with IoT gadgets. <br>I'm all about making tech fun and useful!
 
 
